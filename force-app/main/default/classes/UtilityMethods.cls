@@ -416,6 +416,7 @@
         }     
     public static string sendEmail(){
             string var = '';
+            string var2 = '';
             return var;
         }
         public static string sendEmail(String emailAttrJson)
