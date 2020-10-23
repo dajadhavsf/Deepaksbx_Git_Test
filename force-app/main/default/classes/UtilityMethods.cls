@@ -414,8 +414,9 @@
                 ccAddressList = new List<String>();
             }
         }     
-        public static string sendEmail(String emailattrjson){
-
+    public static string sendEmail(){
+            string var = '';
+            return var;
         }
         public static string sendEmail(String emailAttrJson)
         {    
